@@ -8,6 +8,7 @@
 2. Organizar pasta/repositório
 	- [Estrutura de pastas](#estrutura-de-pastas)
 	- git
+	- .gitignore
 	- Licença
 	- README.md
 	- requirements-essential.txt
