@@ -16,11 +16,9 @@
 ### Estrutura de pastas
 ```
 project_name/
-  config/
   data/
     raw/
     processed/
-  deploy/
   models/
   notebooks/
   outputs/
@@ -34,17 +32,15 @@ project_name/
   requirements-complete.txt
 ```
 
-- **config**:
-- **data**:
-- **deploy**:
-- **models**:
-- **notebooks**:
-- **outputs**:
-- **scripts**:
-- **src**:
-- **tests**:
-- **venv**:
-- **LICENSE**:
-- **README.md**:
-- **requirements-essential.txt**:
-- **requirements-complete.txt**:
+- **data**: dataset(s) in its raw and processed forms
+- **models**: trained models
+- **notebooks**: Jupyter notebooks for analysis
+- **outputs**: images, plots and other non-source files generated
+- **scripts**: one-off scripts for *processes*
+- **src**: source code
+- **tests**: unit/integration/data/model tests
+- **venv**: virtual environment
+- **LICENSE**: software license
+- **README.md**: project description and other information
+- **requirements-essential.txt**: minimal requirements for running the project
+- **requirements-complete.txt**: complete requirements for running the project to ensure reproducibility
