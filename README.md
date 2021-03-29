@@ -6,11 +6,9 @@
  - O que quero resolver?
  - Como vou decidir se está feito?
 2. Organizar pasta/repositório
- - [Estrutura de pastas][1]
+ - Estrutura de pastas
  - git
  - Licença
  - README.md
  - requirements-essential.txt
  - requirements-complete.txt
-
-[1]: Estrutura de pastas
