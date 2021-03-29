@@ -14,3 +14,37 @@
 	- requirements-complete.txt
 
 ### Estrutura de pastas
+```
+project_name/
+  config/
+  data/
+    raw/
+    processed/
+  deploy/
+  models/
+  notebooks/
+  outputs/
+  scripts/
+  src/
+  tests/
+  venv/
+  LICENSE
+  README.md
+  requirements-essential.txt
+  requirements-complete.txt
+```
+
+- **config**:
+- **data**:
+- **deploy**:
+- **models**:
+- **notebooks**:
+- **outputs**:
+- **scripts**:
+- **src**:
+- **tests**:
+- **venv**:
+- **LICENSE**:
+- **README.md**:
+- **requirements-essential.txt**:
+- **requirements-complete.txt**:
