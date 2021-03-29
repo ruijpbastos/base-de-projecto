@@ -13,6 +13,10 @@
 	- README.md
 	- requirements-essential.txt
 	- requirements-complete.txt
+3. Dados
+	- Recolher os dados que se pensa que possam ser úteis para abordar o problema definido no ponto 1
+	- Análise exploratória
+	- Limpeza
 
 ### Estrutura de pastas
 ```
