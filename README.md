@@ -18,6 +18,12 @@
 	- Análise exploratória
 	- Limpeza
 	- Pré-processamento
+4. Modelação
+	- Escolher modelo *baseline*
+	- Definir e processar *features*
+	- Separação em dados de treino e teste
+	- Implementar processos de treino e teste
+	- Implementar testes
 
 ### Estrutura de pastas
 ```
