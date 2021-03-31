@@ -45,15 +45,15 @@ project_name/
   requirements-complete.txt
 ```
 
-- **data**: dataset(s) in its raw and processed forms
-- **models**: trained models
-- **notebooks**: Jupyter notebooks for analysis
-- **outputs**: images, plots and other non-source files generated
-- **scripts**: one-off scripts for *processes*
-- **src**: source code
-- **tests**: unit/integration/data/model tests
-- **venv**: virtual environment
-- **LICENSE**: software license
-- **README.md**: project description and other information
-- **requirements-essential.txt**: minimal requirements for running the project
-- **requirements-complete.txt**: complete requirements for running the project to ensure reproducibility
+- **data**: dados em bruto e dados processados
+- **models**: modelos treinados
+- **notebooks**: *notebooks* do *Jupyter* para análise e visualizações
+- **outputs**: imagens, gráficos e outros ficheiros que sejam gerados e não sejam código
+- **scripts**: *scripts* de **processos**
+- **src**: código
+- **tests**: testes unitários, de integração, de dados e de modelo
+- **venv**: *virtual environment*
+- **LICENSE**: licença de *software*
+- **README.md**: descrição do projeto e outras informações
+- **requirements-essential.txt**: requisitos mínimos para correr o projecto
+- **requirements-complete.txt**: requisitos completos para correr o projecto e garantir reprodutibilidade
