@@ -24,6 +24,7 @@
 	- Separação em dados de treino e teste
 	- Implementar processos de treino e teste
 	- Implementar testes
+	- Treinar modelo
 
 ### Estrutura de pastas
 ```
